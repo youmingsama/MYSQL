@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LiningZhu/database"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+  <a href="https://github.com/youmingsama/MYSQL"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
 </p>
 
 ### MYSQL期末自救笔记
